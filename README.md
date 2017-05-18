@@ -1,7 +1,9 @@
 # Freebird
   **Freebird** is a cross-platform media-center-like application that gather media informations on multiple **open-directories**. It permits to search, sort and filter on movies/tv shows stored on the different open-directories on a simple web interface.
 
-** *Note: The source code is located on the 2 branches 'freebird-server' and 'freebird-web'* **
+** *Note: The source code is located on the repositories 'freebird-server' and 'freebird-web'* **
+- https://github.com/gloic/Freebird-web
+- https://github.com/gloic/Freebird-server
 
 # Screenshots
 ### Main
